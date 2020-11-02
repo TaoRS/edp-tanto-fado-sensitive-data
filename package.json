@@ -1,0 +1,15 @@
+{
+  "name": "edpfado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "votes.js",
+  "scripts": {
+    "votes": "node votes.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^3.7.8",
+    "node-fetch": "^2.6.1"
+  }
+}
