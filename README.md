@@ -5,7 +5,9 @@ EDP Tanto Fado is an event organized in Portugal by [EDP](https://www.edp.pt/) i
 
 Event: [EDP Tanto Fado](https://portugal.edp.com/pt-pt/edptantofado)
 
-This is a small script that takes advantage of EDP's PUBLIC API to get personal and sensitive information about the registered (approved and rejected) candidates.
+This is a small script that takes uses EDP's PUBLIC API to get personal and sensitive information about the registered (approved and rejected) candidates.
+
+This is all public data made available and owned by EDP.
 
 Data available:
 
@@ -19,7 +21,7 @@ Data available:
 - Biography
 - and others
 
-I do think that this information allows for any creative scammer to be able to at least try to scam these people.
+I do think that this information enables scammers to try and scam these people. And this needs addressing.
 
 ----
 
